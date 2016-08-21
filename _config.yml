@@ -10,7 +10,15 @@ color:
     - '#FF2D00'
     - '#FF8C00'
     - '#04756F'
+opengraph:
+  type: MaryOklahomaThoma
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c51ec88-87ca-43ef-bca1-d2d0cb876baf.jpg
 layout_spectrum: 0.5279606820549816
+author:
+  name: Mary L Hockett Thoma
+  email: mrsjetjr@yahoo.com
+  url: 'https://Make-it-in-Oklahoma.blogspot.com'
 name: Mary Oklahoma Thoma
 navigation:
   - name: My ART
