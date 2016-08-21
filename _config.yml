@@ -1,21 +1,21 @@
-typography_spectrum: 0.018027592450380325
+layout_spectrum: 0.1311640792991966
+typography_spectrum: 0.676956131355837
 color:
-  brandStrength: 0.05720755993388593
-  lightness: 0.41472523380070925
-  saturation: 0.3926055005285889
-  rhythmicContrast: 0.5728101406712085
+  brandStrength: 0.28083109646104276
+  lightness: 0.420500295702368
+  saturation: 0.4479554477147758
+  rhythmicContrast: 0.6951179520692676
   brandColors:
-    - '#2E0927'
-    - '#D90000'
-    - '#FF2D00'
-    - '#FF8C00'
-    - '#04756F'
+    - '#E1C488'
+    - '#B6909F'
+    - '#098668'
+    - '#BC3C2F'
+    - '#2D1632'
 opengraph:
   type: MaryOklahomaThoma
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c51ec88-87ca-43ef-bca1-d2d0cb876baf.jpg
   appId: 'https://www.facebook.com/MaryOklahomaThoma/'
-layout_spectrum: 0.5279606820549816
 author:
   name: Mary L Hockett Thoma
   email: mrsjetjr@yahoo.com
