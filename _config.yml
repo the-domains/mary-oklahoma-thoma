@@ -1,14 +1,30 @@
-layout_spectrum: 0.5279606820549816
-typography_spectrum: 0.018027592450380325
+layout_spectrum: 0.9002924968954176
+typography_spectrum: 0.1791414322797209
 color:
-  brandStrength: 0.05720755993388593
-  lightness: 0.41472523380070925
-  saturation: 0.3926055005285889
-  rhythmicContrast: 0.5728101406712085
+  brandStrength: 0.1091345006134361
+  lightness: 0.6786821591667831
+  saturation: 0.6380001502111554
+  rhythmicContrast: 0.06040936172939837
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#7D8A2E'
+    - '#C9D787'
+    - '#FFFFFF'
+    - '#FFC0A9'
+    - '#FF8598'
+opengraph:
+  type: MaryOklahomaThoma
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c51ec88-87ca-43ef-bca1-d2d0cb876baf.jpg
+  appId: 'https://www.facebook.com/MaryOklahomaThoma/'
+author:
+  name: Mary L Hockett Thoma
+  email: mrsjetjr@yahoo.com
+  url: 'https://Make-it-in-Oklahoma.blogspot.com'
+logo: null
 name: Mary Oklahoma Thoma
+navigation:
+  - name: My ART
+    url: 'http://Make-it-in-Oklahoma.blogspot.com'
+    type: external
+title: Making Art in Oklahoma
+description: Artists make ART every day!
