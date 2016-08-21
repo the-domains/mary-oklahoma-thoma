@@ -1,16 +1,16 @@
-layout_spectrum: 0.1311640792991966
-typography_spectrum: 0.676956131355837
+layout_spectrum: 0.009730099933221936
+typography_spectrum: 0.43606646405532956
 color:
-  brandStrength: 0.28083109646104276
-  lightness: 0.420500295702368
-  saturation: 0.4479554477147758
-  rhythmicContrast: 0.6951179520692676
+  brandStrength: 0.2667837792541832
+  lightness: 0.9724250978324562
+  saturation: 0.6637263633310795
+  rhythmicContrast: 0.9867314090952277
   brandColors:
-    - '#E1C488'
-    - '#B6909F'
-    - '#098668'
-    - '#BC3C2F'
-    - '#2D1632'
+    - '#A7304F'
+    - '#F46D8D'
+    - '#F39EB5'
+    - '#081028'
+    - '#F0CEB7'
 opengraph:
   type: MaryOklahomaThoma
   image: >-
