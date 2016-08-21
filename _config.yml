@@ -12,5 +12,9 @@ color:
     - '#04756F'
 layout_spectrum: 0.5279606820549816
 name: Mary Oklahoma Thoma
+navigation:
+  - name: My ART
+    url: 'http://Make-it-in-Oklahoma.blogspot.com'
+    type: external
 title: Making Art in Oklahoma
 description: Artists make ART every day!
