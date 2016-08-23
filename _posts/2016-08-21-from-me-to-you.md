@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-08-23T01:50:30.198Z'
+datePublished: '2016-08-23T01:52:59.788Z'
+sourcePath: _posts/2016-08-21-from-me-to-you.md
 isBasedOnUrl: 'http://Make-it-in-Oklahoma.blogspot.com'
 author:
   - name: Mary Thoma
@@ -43,8 +44,8 @@ metadata:
     this one just kept calling to me. "Finish me, finish me"...who can sleep
     with all that begging going on?
   inLanguage: en
-dateModified: '2016-08-23T01:50:29.721Z'
-title: 'BLOG: Make-it-in-Oklahoma.blogspot.com'
+dateModified: '2016-08-23T01:52:59.127Z'
+title: 'BLOG: '
 id: 103227c4-5ebc-40c4-9e20-d3ce8fe9ddd8
 publisher:
   url: 'http://make-it-in-oklahoma.blogspot.com'
@@ -57,13 +58,14 @@ description: >-
   one just kept calling to me. "Finish me, finish me"...who can sleep with all
   that begging going on?
 starred: false
-sourcePath: _posts/2016-08-21-from-me-to-you.md
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-### BLOG: Make-it-in-Oklahoma.blogspot.com
+# BLOG: 
+
+# Make-it-in-Oklahoma.blogspot.com
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6573cfcefb8ee19c235deb737a1e835ae0b3cf55.jpg" /><h1>Artwork: Nod to Vermeer</h1><p>I was up late last night not something I typically do...and this piece was the product of a Friday night blitz. I worked on backgrounds primarily but this one just kept calling to me. "Finish me, finish me"...who can sleep with all that begging going on?</p></article>
