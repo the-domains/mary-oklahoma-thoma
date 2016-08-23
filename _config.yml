@@ -1,4 +1,3 @@
-layout_spectrum: 0.18828758620657027
 typography_spectrum: 0.6721594533883035
 color:
   brandStrength: 0.9101276469882578
@@ -16,8 +15,9 @@ opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c51ec88-87ca-43ef-bca1-d2d0cb876baf.jpg
   appId: 'https://www.facebook.com/MaryOklahomaThoma/'
+layout_spectrum: 0.18828758620657027
 author:
-  name: Mary L Hockett Thoma
+  name: Mary LHT
   email: mrsjetjr@yahoo.com
   url: 'https://Make-it-in-Oklahoma.blogspot.com'
 logo: null
