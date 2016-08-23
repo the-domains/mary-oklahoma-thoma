@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-23T01:56:33.211Z'
+datePublished: '2016-08-23T02:14:32.068Z'
 sourcePath: _posts/2016-08-22-bubble-burst.md
 author: []
 via: {}
-dateModified: '2016-08-23T01:56:32.530Z'
+dateModified: '2016-08-23T02:14:31.493Z'
 title: Bubble Burst
 publisher: {}
 description: >-
