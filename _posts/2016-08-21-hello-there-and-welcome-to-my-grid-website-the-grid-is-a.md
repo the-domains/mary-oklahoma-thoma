@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-23T01:54:00.175Z'
+datePublished: '2016-08-23T02:14:02.157Z'
 sourcePath: _posts/2016-08-21-hello-there-and-welcome-to-my-grid-website-the-grid-is-a.md
 author: []
 via: {}
-dateModified: '2016-08-23T01:53:59.529Z'
+dateModified: '2016-08-23T02:14:01.598Z'
 title: HELLO!
 publisher: {}
 description: JOE & MARY
