@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-23T01:48:57.454Z'
+datePublished: '2016-08-23T01:53:19.295Z'
 sourcePath: _posts/2016-08-21-hello-there-and-welcome-to-my-grid-website-the-grid-is-a.md
 author: []
 via: {}
-dateModified: '2016-08-23T01:48:57.068Z'
+dateModified: '2016-08-23T01:53:18.357Z'
 title: >-
   Hello, and welcome to my “GRID” website. The Grid is a new type of website
   that uses AI (artificial intelligence) to build the site. Watch me learn to
